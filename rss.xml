@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GothamPhotoBeta]]></title>
         <description><![CDATA[GothamPhotoBeta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gothamphotobeta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 20:20:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 20:26:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gothamphotobeta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Question]]></title>
+            <description><![CDATA[<article><h1>The Question</h1><p>Wondering how you post images to this....</p></article>]]></description>
+            <link>https://thegrid.ai/gothamphotobeta/the-question/index.html</link>
+            <guid isPermaLink="false">c240d826-119e-4e31-81d3-f303d19e7cfc</guid>
+            <pubDate>Mon, 30 Nov 2015 20:26:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testing THE GRID</p>]]></description>
-            <link>undefined256e1e01-6afe-4b60-8ecc-c646445c5c3b/index.html</link>
+            <link>https://thegrid.ai/gothamphotobeta/256e1e01-6afe-4b60-8ecc-c646445c5c3b/index.html</link>
             <guid isPermaLink="false">256e1e01-6afe-4b60-8ecc-c646445c5c3b</guid>
             <pubDate>Mon, 30 Nov 2015 20:19:51 GMT</pubDate>
         </item>
